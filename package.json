@@ -1,0 +1,22 @@
+{
+  "name": "get-proxy-sub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhiqiang21/get-proxy-sub.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhiqiang21/get-proxy-sub/issues"
+  },
+  "homepage": "https://github.com/zhiqiang21/get-proxy-sub#readme",
+  "dependencies": {
+    "axios": "^1.6.1"
+  }
+}
